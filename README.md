@@ -25,7 +25,8 @@ Integrated URL customization
  Added URL customization:
  
 --  scale - number (including decimals) - scales the size of the dice
---- in use: scale=2 doubles the size of the dice, scale=0.5 halves the size of the dice
+
+--- in use: scale=2 doubles the size of the dice, scale=0.5 halves the size of the dice, scale=0.05 makes the dice super tiny
   
  example link: http://URL/?dicehex=4E1E78&labelchex=CC9EEC&chromahex=FBFF00&d=2d20&roll
  
