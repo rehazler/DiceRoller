@@ -7,7 +7,7 @@ Uses standard dice notation: 1d4, 2d6, etc.
 Integrated URL customization
 --  dicehex - hexcode - sets the dice’s body colour. 
 
---  labelhex - hexcode - set’s the number’s colour. 
+--  labelhex - hexcode - sets the number’s colour. 
 
 --  transparency - number 0-1 - set’s an opacity on the dice.
 
