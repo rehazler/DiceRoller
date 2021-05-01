@@ -22,6 +22,7 @@ Integrated URL customization
 --  d - dice notation (see below) - set’s the starting dice
   
  Added URL customization:
+ 
 --  scale - integer - scales the size of the dice
   
  example link: http://URL/?dicehex=4E1E78&labelchex=CC9EEC&chromahex=FBFF00&d=2d20&roll
