@@ -33,6 +33,6 @@ Integrated URL customization
   copy index.html, dice.css, dice.js, main.css, main.js, teal.js and /libs to your web server
   -- NOTE: /libs contains two files: cannon.min.js and three.min.js
   
-  Baked-in parameter setting can be done by editing main.js, starting at line 31
+  Baked-in parameter setting can be done by editing main.js, starting at line 31.  
   In this adaptation, I have set the background, dice/label colors and turned off shadows because I
   didn't want to have to keep passing the same URL parameters over and over.
