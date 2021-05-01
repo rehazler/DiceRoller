@@ -23,7 +23,8 @@ Integrated URL customization
   
  Added URL customization:
  
---  scale - integer - scales the size of the dice
+--  scale - number (including decimals) - scales the size of the dice
+--- in use: scale=2 doubles the size of the dice, scale=0.5 halves the size of the dice
   
  example link: http://URL/?dicehex=4E1E78&labelchex=CC9EEC&chromahex=FBFF00&d=2d20&roll
  
@@ -32,3 +33,4 @@ Integrated URL customization
   copy index.html, dice.css, dice.js, main.css, main.js, teal.js and /libs to your web server
   -- NOTE: /libs contains two files: cannon.min.js and three.min.js
   
+  B
