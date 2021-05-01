@@ -5,6 +5,7 @@ Uses standard dice notation: 1d4, 2d6, etc.
 
 
 Integrated URL customization
+
 --  dicehex - hexcode - sets the dice’s body colour. 
 
 --  labelhex - hexcode - sets the number’s colour. 
