@@ -765,6 +765,7 @@
         var uat = $t.dice.use_adapvite_timestep;
         function roll(request_results) {
             if (after_roll) {
+                if($t.dice.dice_value) {userValue[0]=$t.dice.dice_value};
                 box.clear();
                 box.roll(vectors, request_results || notation.result, function(result) {
                     if (after_roll) after_roll.call(box, notation, result);
