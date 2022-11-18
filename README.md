@@ -21,6 +21,8 @@ Integrated URL customization
 --  roll- no input- immediately rolls on page load.
 
 --  d - dice notation (see below) - set’s the starting dice
+
+-- dicevalue - forces dice roll to be this value (There were no safe guards put in place against unexpected values. This was a quick and dirty addition to be able to make specific rolls. Only tested with d20 notation on values between 1-20)
   
  Added URL customization:
  
