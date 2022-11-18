@@ -94,6 +94,10 @@ function dice_initialize(container) {
     if (!params.h) {
         params.h = 300;
     }
+	
+    if (params.dicevalue) {
+        $t.dice.dice_value = params.dicevalue;
+    }
 
 
 
