@@ -763,6 +763,7 @@
 
     function throw_dices(box, vector, boost, dist, notation_getter, before_roll, after_roll) {
         var uat = $t.dice.use_adapvite_timestep;
+        var userValue = [];
         function roll(request_results) {
             if (after_roll) {
                 if($t.dice.dice_value) {userValue[0]=$t.dice.dice_value};
